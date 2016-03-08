@@ -1,6 +1,6 @@
 \name{insertPipeline}
 \alias{insertPipeline}
-\title{Insert \%\>\%.}
+\title{Insert \%>\%.}
 \usage{
 insertPipeline()
 }
