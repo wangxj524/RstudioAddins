@@ -2,3 +2,8 @@ Name: Insert %>%
 Description: Inserts `%>%` at the cursor position.
 Binding: insertPipeline
 Interactive: false
+
+Name: Insert %<>%
+Description: Inserts `%<>%` at the cursor position.
+Binding: insertReturn
+Interactive: false
