@@ -4,5 +4,5 @@ You can use addins:
 * insert `%<>%`
 
 and function:
-x <- insertSymbol(symbol)
-x() # insert 'symbol'
+* x <- insertSymbol(symbol)
+* x() # insert 'symbol'
