@@ -7,3 +7,8 @@ Name: Insert %<>%
 Description: Inserts `%<>%` at the cursor position.
 Binding: insertReturn
 Interactive: false
+
+Name: Insert symbol
+Description: Inserts `symbol` at the cursor position.
+Binding: insertSymbol
+Interactive: false
