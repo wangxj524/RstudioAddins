@@ -1,4 +1,8 @@
 # insertSymbol---Rstudio Addins
-you can use addins:
+You can use addins:
 * insert `%>%`
 * insert `%<>%`
+
+and function:
+x <- insertSymbol(symbol)
+x() # insert 'symbol'
